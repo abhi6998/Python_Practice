@@ -5,3 +5,6 @@ Added the following Programs:\
 &nbsp;&nbsp;&nbsp;&nbsp;2.Prime using while loop.\
 &nbsp;&nbsp;&nbsp;&nbsp;3.Prime using Functions.\
 &nbsp;&nbsp;&nbsp;&nbsp;4.Prime numbers in certain range(user defined).\
+&nbsp;&nbsp;&nbsp;&nbsp;5.Reverse of a number.\
+&nbsp;&nbsp;&nbsp;&nbsp;6.Palindrome of a number.\
+&nbsp;&nbsp;&nbsp;&nbsp;7.Fibonacci Series.
