@@ -7,4 +7,7 @@ Added the following Programs:\
 &nbsp;&nbsp;&nbsp;&nbsp;4.Prime numbers in certain range(user defined).\
 &nbsp;&nbsp;&nbsp;&nbsp;5.Reverse of a number.\
 &nbsp;&nbsp;&nbsp;&nbsp;6.Palindrome of a number.\
-&nbsp;&nbsp;&nbsp;&nbsp;7.Fibonacci Series.
+&nbsp;&nbsp;&nbsp;&nbsp;7.Fibonacci Series.\
+&nbsp;&nbsp;&nbsp;&nbsp;8.nCr Function using Recursion.\
+&nbsp;&nbsp;&nbsp;&nbsp;9.Fahrenheit to Celsius Function.\
+&nbsp;&nbsp;&nbsp;&nbsp;10.Finding an Amstrong Number Function.
