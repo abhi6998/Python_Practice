@@ -10,4 +10,7 @@ Added the following Programs:\
 &nbsp;&nbsp;&nbsp;&nbsp;7.Fibonacci Series.\
 &nbsp;&nbsp;&nbsp;&nbsp;8.nCr Function using Recursion.\
 &nbsp;&nbsp;&nbsp;&nbsp;9.Fahrenheit to Celsius Function.\
-&nbsp;&nbsp;&nbsp;&nbsp;10.Finding an Amstrong Number Function.
+&nbsp;&nbsp;&nbsp;&nbsp;10.Finding an Amstrong Number Function.\
+&nbsp;&nbsp;&nbsp;&nbsp;11.Finding Duplicate of the element in a list.\
+&nbsp;&nbsp;&nbsp;&nbsp;12.Finding reverse of a list.\
+&nbsp;&nbsp;&nbsp;&nbsp;13.Finding unique elements in a list.
